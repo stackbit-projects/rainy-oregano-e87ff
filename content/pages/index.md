@@ -7,7 +7,7 @@ sections:
       mecánica y robótica. Armando su propio robot.
     actions:
       - label: Inscripción Clase Gratis
-        url: /contact
+        url: 'https://roboticawolf.com/clase-demostrativa'
         style: primary
     image: images/hero.png
     image_alt: A smiling woman
