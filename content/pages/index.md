@@ -11,7 +11,7 @@ sections:
         style: primary
         icon: arrow-left
         icon_position: left
-    image: images/hero.png
+    image: /images/John con robots2.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
