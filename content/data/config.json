@@ -9,7 +9,7 @@
     "header": {
         "title": "Personal",
         "logo": "/images/Logo Robot Wolf2.png",
-        "logo_alt": "Personal logo",
+        "logo_alt": "Logo Robot Wolf",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
