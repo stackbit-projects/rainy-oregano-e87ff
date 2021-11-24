@@ -21,7 +21,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    title: Robotics and Coding Training for Children
+    title: Robotics and Coding Training for Children´s
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
