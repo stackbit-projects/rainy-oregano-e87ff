@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Los niños y jóvenes de 8 a 17 años, aprenden programación, electrónica,
+      mecánica y robótica. Armando su propio robot.
     actions:
       - label: Contact Me
         url: /contact
