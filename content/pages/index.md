@@ -10,7 +10,7 @@ sections:
         url: 'https://roboticawolf.com/clase-demostrativa'
         style: primary
         icon: arrow-left
-        icon_position: center
+        icon_position: left
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
