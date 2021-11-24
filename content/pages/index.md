@@ -6,7 +6,7 @@ sections:
       Los niños y jóvenes de 8 a 17 años, aprenden programación, electrónica,
       mecánica y robótica. Armando su propio robot.
     actions:
-      - label: Inscripción a Clase Gratis
+      - label: Inscripción Clase Gratis
         url: /contact
         style: primary
     image: images/hero.png
