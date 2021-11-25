@@ -12,7 +12,6 @@ sections:
         icon: arrow-left
         icon_position: left
     image: /images/John-con-robots-reducido2.png
-    image_alt: A smiling woman
     media_position: right
     media_width: fifty
     align: center
