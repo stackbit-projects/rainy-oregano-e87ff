@@ -25,7 +25,7 @@ sections:
     title: Robotics and Coding Training for Children´s
     image_alt: Niño aprendiendo Robotica
   - type: grid_section
-    title: ¿Qué Aprenden los niños y j?
+    title: ¿Qué Aprenden los niños y jóvenes?
     subtitle: Who I work with
     align: center
     grid_items:
