@@ -26,7 +26,7 @@ sections:
     image_alt: Niño aprendiendo Robotica
   - type: grid_section
     title: ¿Qué Aprenden los niños y jóvenes?
-    subtitle: Who I work with
+    subtitle: APRENDIZAJE
     align: center
     grid_items:
       - image: images/logo-1.svg
