@@ -6,7 +6,7 @@ sections:
       Los niños y jóvenes de 8 a 17 años, aprenden programación, electrónica,
       mecánica y robótica. Armando su propio robot.
     actions:
-      - label: Inscripción Clase Gratis
+      - label: Inscripción Clase Gratis!
         url: 'https://roboticawolf.com/clase-demostrativa'
         style: primary
         icon: arrow-left
