@@ -15,7 +15,7 @@ sections:
     media_position: right
     media_width: fifty
     align: center
-    padding_top: large
+    padding_top: small
     padding_bottom: small
     background_color: primary
     background_image: images/watercolor.png
