@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Inscripción Clase Gratis!
         url: 'https://roboticawolf.com/clase-demostrativa'
-        style: secondary
+        style: link
         icon: arrow-left
         icon_position: left
     image: /images/John-con-robots-reducido2.png
