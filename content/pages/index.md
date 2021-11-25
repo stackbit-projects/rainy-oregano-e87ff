@@ -21,7 +21,7 @@ sections:
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 2
     title: Robotics and Coding Training for Children´s
     image_alt: Niño aprendiendo Robotica
   - type: grid_section
